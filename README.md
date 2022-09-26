@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerChol
-- 👀 I’m a Software Engineer
-- 🌱 I specialize in Java
+- 👀 I’m an aspiring Software Engineer
+- 🌱 I wanto to engineer appications that will make life much easier.
 
 <!---
 JerChol/JerChol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
